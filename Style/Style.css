@@ -1,0 +1,48 @@
+.logo img {
+    width: 40px;
+}
+
+.offcanvas {
+    text-align: right;
+}
+
+.offcanvas-header{
+    background-color: rgb(10, 10, 10);
+    text-align: right;
+}    
+
+.offcanvas-title {
+    color: #e0e044;
+}   
+
+.footer {
+    background-color: rgb(33, 37, 41)12529;
+}
+
+.Footerx{
+    display: flex;    
+    justify-content: space-between;
+}
+
+.container-fluid{
+    display: flex;    
+    justify-content: space-between;
+}
+
+.logopie {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.pie {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logopie img{
+    width: 40px;
+}
+
+.pie img{
+    width: 40px;
+}
