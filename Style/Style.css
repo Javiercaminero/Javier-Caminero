@@ -1,3 +1,7 @@
+.boddy{
+    background-color:  rgb(12, 12, 12);
+}
+
 .logo img {
     width: 40px;
 }
@@ -15,8 +19,86 @@
     color: #e0e044;
 }   
 
-.footer {
-    background-color: rgb(33, 37, 41)12529;
+.quien {
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(10, 10, 10);
+}
+
+.quien a {
+    display: flex;
+    text-decoration: none;
+    color: #e0e044;
+}
+
+.video1 {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video1 iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.648);
+    border-radius: 1rem;
+}
+
+.carousel-caption a, .carousel-caption h5{
+    color: rgba(255,255,255,0.7);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: rgba(0, 0, 0,1);
+    border-radius: 50%;
+}
+.carousel-item{
+    text-align: center;
+}
+
+.contenedorcartas {
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    flex-wrap: wrap;
+}
+
+.contenedorcartas2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 140px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    flex-wrap: wrap;
+}
+
+.service{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    flex-wrap: wrap;
+}
+
+.formularios{
+    color: aliceblue;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    flex-wrap: wrap;
 }
 
 .Footerx{
