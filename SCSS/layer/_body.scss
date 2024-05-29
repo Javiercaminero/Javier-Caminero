@@ -1,5 +1,5 @@
 .offcanvas-title {
-    color: #e0e044;
+    color: $amrillom;
 } 
 
 .carousel-caption{
@@ -27,7 +27,7 @@
     margin-right: 200px;
     padding: 10px;
     background-image: linear-gradient(to right, #291800,
-    #e9e500, #291800);
+    $amrillom, #291800);
     border-radius: 1rem;
     font-size: 20px;
     text-decoration: none;
@@ -48,7 +48,7 @@
 
 #text1 { 
     background-image: linear-gradient(to right, #4e2e01,
-    #e9e500);
+    $amrillom);
     text-align: center;
     margin: 40px;
     margin-left: 200px;
