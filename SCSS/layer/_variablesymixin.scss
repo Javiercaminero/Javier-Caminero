@@ -3,8 +3,8 @@ $amrillom: #e9e500;
 @mixin parrafos1 {
     text-align: center;
     margin: 40px;
-    margin-left: 200px;
-    margin-right: 200px;
+    min-width: 100px;
+    min-height: 100px;
     font-size: 20px;
     color: black;
 }
