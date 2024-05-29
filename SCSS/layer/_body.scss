@@ -48,15 +48,10 @@
 
 #text1 { 
     background-image: linear-gradient(to right, #4e2e01,
-    $amrillom);
-    text-align: center;
-    margin: 40px;
-    margin-left: 200px;
-    margin-right: 200px;
+    #e9e500);    
     padding: 10px;
-    font-size: 20px;
-    color: #0e0e0e;
     flex-wrap: wrap;
+    @include parrafos1
 }
 
 .video1 iframe {
